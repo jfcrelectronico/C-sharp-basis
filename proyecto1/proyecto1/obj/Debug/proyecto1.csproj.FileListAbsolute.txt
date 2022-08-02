@@ -1,0 +1,8 @@
+C:\documentos\c sharp\proyecto1\proyecto1\obj\Debug\proyecto1.csproj.AssemblyReference.cache
+C:\documentos\c sharp\proyecto1\proyecto1\obj\Debug\proyecto1.csproj.SuggestedBindingRedirects.cache
+C:\documentos\c sharp\proyecto1\proyecto1\obj\Debug\proyecto1.csproj.CoreCompileInputs.cache
+C:\documentos\c sharp\proyecto1\proyecto1\bin\Debug\proyecto1.exe.config
+C:\documentos\c sharp\proyecto1\proyecto1\bin\Debug\proyecto1.exe
+C:\documentos\c sharp\proyecto1\proyecto1\bin\Debug\proyecto1.pdb
+C:\documentos\c sharp\proyecto1\proyecto1\obj\Debug\proyecto1.exe
+C:\documentos\c sharp\proyecto1\proyecto1\obj\Debug\proyecto1.pdb
