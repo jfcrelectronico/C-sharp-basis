@@ -10,7 +10,7 @@ namespace proyecto1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("JFCR");
+            Console.WriteLine("JFCR");// imprimir en la consola un string
         }
     }
 }
